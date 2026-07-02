@@ -6,10 +6,10 @@ I share what I build and learn — practical full-stack + AI dev content, posted
 
 ---
 
-🔭 **Currently building:** Movie Watchlist app with AI-powered recommendations
-🌱 **Deep diving into:** AI integration — LLM APIs, embeddings, RAG, agents
-💬 **Ask me about:** React, FastAPI, PostgreSQL, MERN, AI-powered app development
-📫 **Reach me:** [syednoorulhassan001@gmail.com](mailto:syednoorulhassan001@gmail.com) • [LinkedIn](https://www.linkedin.com/in/syed-noor-ul-hassan-ai)
+🔭 **Currently building:** Movie Watchlist app with AI-powered recommendations  
+🌱 **Deep diving into:** AI integration — LLM APIs, embeddings, RAG, agents  
+💬 **Ask me about:** React, FastAPI, PostgreSQL, MERN, AI-powered app development  
+📫 **Reach me:** [syednoorulhassan001@gmail.com](mailto:syednoorulhassan001@gmail.com) · [LinkedIn](https://www.linkedin.com/in/syed-noor-ul-hassan-ai)
 
 ---
 
@@ -26,8 +26,10 @@ I share what I build and learn — practical full-stack + AI dev content, posted
 
 ### 📊 GitHub Stats
 
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=syednoorulhassan001&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syednoorulhassan001&layout=compact)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syednoorulhassan001&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syednoorulhassan001&layout=compact&theme=radical" />
+</p>
 
 ---
 
