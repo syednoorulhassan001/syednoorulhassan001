@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer building applications with React, FastAPI, and PostgreSQL (and MERN) — integrating AI capabilities from API-powered features to RAG pipelines and intelligent agents.
 
-I share what I build and learn — practical full-stack + AI dev content, posted weekly on LinkedIn.
+I share what I build every week — new commits and projects here on GitHub, with progress recaps and demos posted on LinkedIn.
 
 ---
 
@@ -24,13 +24,5 @@ I share what I build and learn — practical full-stack + AI dev content, posted
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syednoorulhassan001&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syednoorulhassan001&layout=compact&theme=radical" />
-</p>
-
----
 
 ⭐️ From [syednoorulhassan001](https://github.com/syednoorulhassan001)
