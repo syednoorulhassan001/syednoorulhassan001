@@ -4,14 +4,14 @@ I'm a Full-Stack Developer building applications with React, FastAPI, and Postgr
 
 I share what I build every week — new commits and projects here on GitHub, with progress recaps and demos posted on LinkedIn.
 
----
+<br>
 
-🔭 **Currently building:** Movie Watchlist app with AI-powered recommendations  
-🌱 **Deep diving into:** AI integration — LLM APIs, embeddings, RAG, agents  
+🔭 **Currently learning:** LLM Engineering — RAG, function calling, multi-modal, fine-tuning  
+🌱 Shipping weekly: New builds and iterations
 💬 **Ask me about:** React, FastAPI, PostgreSQL, MERN, AI-powered app development  
 📫 **Reach me:** [syednoorulhassan001@gmail.com](mailto:syednoorulhassan001@gmail.com) · [LinkedIn](https://www.linkedin.com/in/syed-noor-ul-hassan-ai)
 
----
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -23,6 +23,7 @@ I share what I build every week — new commits and projects here on GitHub, wit
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 ⭐️ From [syednoorulhassan001](https://github.com/syednoorulhassan001)
